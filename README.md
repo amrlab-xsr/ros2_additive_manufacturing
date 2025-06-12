@@ -1,6 +1,6 @@
 
 
-# ros2_additive_mfg_demo
+# ros2_additive_manufacturing
 > Additive Manufacturing ROS Lab | 增材制造ROS实验室
 
 
@@ -48,8 +48,8 @@ pip3 install numpy
 1. 克隆仓库
 
    ```bash
-   git clone https://github.com/yourname/ros2_additive_mfg_demo.git
-   cd ros2_additive_mfg_demo
+   git clone https://github.com/amrlab-xsr/ros2_additive_manufacturing.git
+   cd ros2_additive_manufacturing
    ```
 
 2. 启动仿真环境
