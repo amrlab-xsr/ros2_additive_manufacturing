@@ -37,7 +37,7 @@ For detailed configuration and dependency instructions, please see [docs/INSTALL
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourname/ros2_additive_mfg_demo.git
+   git clone https://github.com/amrlab-xsr/ros2_additive_manufacturing.git
    cd ros2_additive_mfg_demo
    ```
 
